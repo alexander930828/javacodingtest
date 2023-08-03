@@ -5,7 +5,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
-public class Main_1062_G4 {
+public class Main_1062_G4_가르침 {
 
 	static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 	static StringTokenizer st;
@@ -47,7 +47,7 @@ public class Main_1062_G4 {
 			// 함수 실행
 			combination(0, 0);
 			System.out.println(max);
-		}
+		}  
 	}
 	
 	// 조합 함수
